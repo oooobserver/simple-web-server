@@ -1,3 +1,3 @@
 # simple-web-server
 
-Simple web server folllowed by *Rust Book* instructions.
+Simple web server followed by `Rust Book` instructions.
